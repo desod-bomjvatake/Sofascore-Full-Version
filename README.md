@@ -245,4 +245,4 @@ This repository serves as the official landing page for SofaScore. The software 
 **Get the most recent version of SofaScore today!**
 
 ---
-**Last updated:** 2026-09-19 19:02:41 UTC
+**Last updated:** 2026-09-19 21:53:34 UTC
